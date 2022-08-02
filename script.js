@@ -94,7 +94,7 @@ btnPrev.addEventListener('click', ()=>{
 window.addEventListener('load', () =>{
 
     setTimeout(time, 2200);
-})
+})// loading bar duration
 
 
 
